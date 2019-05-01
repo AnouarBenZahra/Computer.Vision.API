@@ -1,0 +1,15 @@
+c:\users\anouar ben zahra\Source\repos\Computer.Vision.API\Computer.Vision.API\bin\Debug\Computer.Vision.API.dll
+c:\users\anouar ben zahra\Source\repos\Computer.Vision.API\Computer.Vision.API\bin\Debug\Computer.Vision.API.pdb
+c:\users\anouar ben zahra\Source\repos\Computer.Vision.API\Computer.Vision.API\bin\Debug\Microsoft.Azure.CognitiveServices.Vision.ComputerVision.dll
+c:\users\anouar ben zahra\Source\repos\Computer.Vision.API\Computer.Vision.API\bin\Debug\Microsoft.Rest.ClientRuntime.Azure.dll
+c:\users\anouar ben zahra\Source\repos\Computer.Vision.API\Computer.Vision.API\bin\Debug\Microsoft.Rest.ClientRuntime.dll
+c:\users\anouar ben zahra\Source\repos\Computer.Vision.API\Computer.Vision.API\bin\Debug\Newtonsoft.Json.dll
+c:\users\anouar ben zahra\Source\repos\Computer.Vision.API\Computer.Vision.API\bin\Debug\Microsoft.Azure.CognitiveServices.Vision.ComputerVision.xml
+c:\users\anouar ben zahra\Source\repos\Computer.Vision.API\Computer.Vision.API\bin\Debug\Microsoft.Rest.ClientRuntime.xml
+c:\users\anouar ben zahra\Source\repos\Computer.Vision.API\Computer.Vision.API\bin\Debug\Microsoft.Rest.ClientRuntime.Azure.xml
+c:\users\anouar ben zahra\Source\repos\Computer.Vision.API\Computer.Vision.API\bin\Debug\Newtonsoft.Json.xml
+c:\users\anouar ben zahra\Source\repos\Computer.Vision.API\Computer.Vision.API\obj\Debug\Computer.Vision.API.csprojAssemblyReference.cache
+c:\users\anouar ben zahra\Source\repos\Computer.Vision.API\Computer.Vision.API\obj\Debug\Computer.Vision.API.csproj.CoreCompileInputs.cache
+c:\users\anouar ben zahra\Source\repos\Computer.Vision.API\Computer.Vision.API\obj\Debug\Computer.Vision.API.csproj.CopyComplete
+c:\users\anouar ben zahra\Source\repos\Computer.Vision.API\Computer.Vision.API\obj\Debug\Computer.Vision.API.dll
+c:\users\anouar ben zahra\Source\repos\Computer.Vision.API\Computer.Vision.API\obj\Debug\Computer.Vision.API.pdb
